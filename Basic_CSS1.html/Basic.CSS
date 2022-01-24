@@ -1,0 +1,17 @@
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    Color:navy;
+    font-size:large;
+}
+p{
+    color:darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+}
+#paragraf_khusus{
+    border-style:solid;
+    border-width: 5px;
+    border-color:black;
+}
+b, i, u, .pa{
+    color:maroon;
+}
